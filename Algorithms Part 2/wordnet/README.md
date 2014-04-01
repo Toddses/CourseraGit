@@ -2,8 +2,6 @@
 
 http://coursera.cs.princeton.edu/algs4/assignments/wordnet.html
 
-## Scoring
-
 Category      |Result
 ------------- |---------
 Compilation:  |PASSED
