@@ -4,13 +4,14 @@ http://coursera.cs.princeton.edu/algs4/assignments/wordnet.html
 
 ## Scoring
 
-Compilation:  |PASSED
-Style:        |PASSED
-Findbugs:     |No potential bugs found.
-API:          |PASSED
+| ------------- | --------- |
+| Compilation:  |PASSED
+| Style:        |PASSED
+| Findbugs:     |No potential bugs found. |
+| API:          |PASSED |
 
-Correctness:  |20/20 tests passed
-Memory:       |8/8 tests passed
-Timing:       |44/44 tests passed
+| Correctness:  |20/20 tests passed |
+| Memory:       |8/8 tests passed |
+| Timing:       |44/44 tests passed |
 
 Raw score: 100.00% [Correctness: 65%, Memory: 10%, Timing: 25%, Style: 0%]
